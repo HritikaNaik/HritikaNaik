@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HritikaNaik
-- 👀 I’m interested in Data Science, Data Analytics and Robotics
+- 👀 I’m interested in Software Dev, Data Analytics and Robotics
 - 🌱 I’m currently learning Web Development and ROS with Gazebo
 
 <!---
